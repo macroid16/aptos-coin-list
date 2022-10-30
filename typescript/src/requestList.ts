@@ -2,6 +2,24 @@ import { RawCoinInfo } from "./list";
 
 export const REQUESTS: RawCoinInfo[] = [
   {
+    "name": "SugarFinance",
+    "symbol": "SGR",
+    "official_symbol": "SGR",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/macroid16/aptos-coin-list/main/icons/SGR.svg",
+    "project_url": "https://sugarfinance.com",
+    "token_type": {
+      "type": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::SugarFinance::SugarFinance",
+      "account_address": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf",
+      "module_name": "coin",
+      "struct_name": "SugarFinance"
+    },
+    "extensions": {
+      "data": []
+    }
+  },
+  {
     "name": "Aptoge",
     "symbol": "APTOGE",
     "official_symbol": "APTOGE",
