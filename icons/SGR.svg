@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+<path style="fill:#47714d; stroke:none;" d="M0 0L0 100L100 100L100 0L0 0z"/>
+<path style="fill:#6b37f3; stroke:none;" d="M43 3.43904C36.1832 4.51205 29.7905 6.95021 24 10.6991C-17.303 37.4394 8.58326 104.182 57 96.561C63.8169 95.4879 70.2093 93.0497 76 89.3009C117.281 62.5765 91.4409 -4.18591 43 3.43904z"/>
+<path style="fill:#d17aee; stroke:none;" d="M46 6.42824C28.9272 8.84665 14.0396 19.0856 8.52006 36C-0.620599 64.0109 21.9785 97.3732 53 93.713C75.4732 91.0613 92.8713 74.0916 93.8958 51C95.0009 26.0925 71.0622 2.87811 46 6.42824z"/>
+<path style="fill:#fccbf6; stroke:none;" d="M42 13.4676C-5.53838 22.3779 10.609 95.08 58 86.5355C105.686 77.9378 89.3072 4.60059 42 13.4676z"/>
+<path style="fill:#d17aee; stroke:none;" d="M34 25L28 31L28 32C31.447 31.0231 34.8942 28.9505 34 25z"/>
+<path style="fill:#6b37f3; stroke:none;" d="M35 25L35 28L64 28L64 38L41 38L41 48L64 48L67 51L67 68L64 71L31 71L31 61L57 61L57 55C47.6579 55 39.9701 56.0265 32 51L28 58L28 74L67 74L73 70L73 48L67 48L67 45L47 45L47 41L70 41L70 25L35 25z"/>
+<path style="fill:#d17aee; stroke:none;" d="M70 26L70 41L71 41L70 26z"/>
+<path style="fill:#f34ba9; stroke:none;" d="M34 28L31 31L31 51L38 55L38 48C32.381 44.9016 34 37.6453 34 32L38 28L34 28z"/>
+<path style="fill:#d17aee; stroke:none;" d="M38 28L34 32C34 37.2618 31.977 46.001 38 48L38 55L57 55L57 61L34 61L38 71L64 71L67 68L67 51L64 48L41 48L41 38L64 38L64 28L38 28z"/>
+<path style="fill:#6b37f3; stroke:none;" d="M32 29L32 31L34 31L34 29L32 29z"/>
+<path style="fill:#fccbf6; stroke:none;" d="M53 34L61 35L61 31L53 34z"/>
+<path style="fill:#6b37f3; stroke:none;" d="M28 32L28 51L31 51L31 32L28 32z"/>
+<path style="fill:#d17aee; stroke:none;" d="M47 41L47 45L48 45L47 41M73 48L73 70L68 70L68 71L74 71L73 48M31 51L31 57L32 57L31 51z"/>
+<path style="fill:#fccbf6; stroke:none;" d="M60 54C60.0005 58.5245 59.017 63.3461 64 65L65 55L60 54z"/>
+<path style="fill:#f34ba9; stroke:none;" d="M31 61L31 71L38 71L34 61L31 61z"/>
+</svg>
